@@ -1,0 +1,32 @@
+_repo: Aids-to-the-Study-of-the-Maya-CodicesGovernment-Printing-Office-Washington-1888-pages-253-372_19777
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, Cyrus
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '1415'
+    url: http://www.gutenberg.org/2009/agents/1415
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Thomas
+description: The numerals in the Dresden codex -- Conclusions -- The writing. Signification
+  of the characters ; Symbols of animals, etc. ; Symbols of deities ; Discussion as
+  to phonetic features of the characters.
+gutenberg_issued: '2006-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Codex Dresdensis Maya'
+- !lcsh 'Maya language'
+title: "Aids to the Study of the Maya Codices\r\nSixth Annual Report of the Bureau\
+  \ of Ethnology to the Secretary of the Smithsonian Institution, 1884-85, Government\
+  \ Printing Office, Washington, 1888, pages 253-372"
+url: http://www.gutenberg.org/ebooks/19777
